@@ -135,7 +135,7 @@ a {
   padding: clamp(76px, 9vw, 120px) 0 clamp(70px, 8vw, 108px);
   background:
     linear-gradient(90deg, rgba(247, 250, 244, 0.98) 0%, rgba(247, 250, 244, 0.9) 42%, rgba(247, 250, 244, 0.16) 76%),
-    url("assets/umbiklik-hero.png") right 8% center / min(58vw, 780px) auto no-repeat,
+    url("umbiklik-hero.png") right 8% center / min(58vw, 780px) auto no-repeat,
     linear-gradient(135deg, #fffdf8 0%, #e7f2dd 54%, #f5da76 100%);
 }
 
@@ -595,7 +595,7 @@ select:focus {
   .hero {
     background:
       linear-gradient(180deg, rgba(247, 250, 244, 0.98) 0%, rgba(247, 250, 244, 0.92) 52%, rgba(247, 250, 244, 0.36) 100%),
-      url("assets/umbiklik-hero.png") center bottom 28px / min(92vw, 640px) auto no-repeat,
+      url("umbiklik-hero.png") center bottom 28px / min(92vw, 640px) auto no-repeat,
       linear-gradient(135deg, #fffdf8 0%, #e7f2dd 54%, #f5da76 100%);
     padding-bottom: min(70vw, 470px);
   }
